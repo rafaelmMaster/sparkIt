@@ -2,6 +2,7 @@
 [![Build Status](https://travis-ci.org/rafaelmMaster/sparkIt.png)]
 (https://travis-ci.org/rafaelmMaster/sparkIt
 )
+
 Simple Spark Java app with support for Selenium testing. The App serves Chuck Norris jokes in a Web application.
 
 Runs on (tested on):
